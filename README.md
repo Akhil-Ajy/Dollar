@@ -128,7 +128,7 @@ After deploying, you can access the application at: http://YOUR_VM_IP
 
 3. **CI/CD pipeline failures**
    - Check GitHub Actions logs for error details
-   - Verify that all secrets are correctly set
+   - Verify that all the secrets are correctly set
 
 ## License
 
